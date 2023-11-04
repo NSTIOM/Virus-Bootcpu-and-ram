@@ -5,6 +5,7 @@ https://pastebin.com/raw/9Jh4p8Gm
 แล้วเอามาแก้ไขใส่ https://pastebin.com ของท่านเอง
 
 และอย่าลืมเปลี่ยนตรงหลัง raw/
+
 ![คำอธิบายรูป](img/1.png)
 
 เป็นของท่าน
