@@ -2,7 +2,7 @@
 
 https://pastebin.com/raw/9Jh4p8Gm
 
-แล้วเอามาใส่ของ https://pastebin.com ท่านเอง
+แล้วเอามาแก้ไขใส่ https://pastebin.com ของท่านเอง
 
 และอย่าลืมเปลี่ยนตรงหลัง raw/
 ![คำอธิบายรูป](img/1.png)
